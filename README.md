@@ -1,3 +1,4 @@
+The Dashboard link
 Data source: https://lnkd.in/dpCRRCwB
 
 Tools used : Powerpoint, Excel
@@ -19,3 +20,5 @@ This is more of a descriptive analysis in which insights below are derived.
 *No discharged cases by states
 
 In conclusion, based on the data analysis, we can say Lagos state has the highest number of death cases, cases on admission confirmed cases, and no of people discharged.
+](https://github.com/oluakb/Projects/assets/105322108/71f615e2-816d-4213-8396-385fefb850e6
+)https://github.com/oluakb/Projects/assets/105322108/71f615e2-816d-4213-8396-385fefb850e6
